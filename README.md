@@ -1,2 +1,2 @@
 # Bus-Transportation
-Database for Bus Routes
+SQL Database for Bus Routes
